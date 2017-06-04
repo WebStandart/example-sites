@@ -8,11 +8,11 @@
 .rus-grid a{
     text-decoration: none;
 }
-/* размер шрифта в подвале*/
+/* размер шрифта в подвале!!!!!!!!!*/
 address p{
     font-size: 12px;
 }
-.content1{
+.content1{/* !!!!!!!!*/
     background:red;
 }
 .rus-form {
@@ -20,16 +20,18 @@ address p{
      position: relative;
      
 }
-.two{
+.two{/* !!!!!!!!*/
 
     background-color: #112e51;
 }
-/* фоновая картинка*/
+/* фоновая картинка!!!!!!!!*/
 .content{
     background-image: url(../images/irk.jpg);
-    width: 1500px;
+    width: 2000px;
     height: 380px;
-    max-width: 100%;
+    width: 100%;
+    color: #fff;
+    
 }
 .cont{
     background-image: url(../images/acodemiya.jpg);
@@ -55,6 +57,7 @@ address p{
     width: 1500px;
     height: 65px;
     background: #112e51;
+    max-width: 100%;
 
 }
 .f1{
@@ -107,7 +110,7 @@ address p{
 .rus-width-three-fourths rus-layout-docs-main_content{
     text-align: justify;
 }
-.content2{/* фон для форма обращения*/
+.content2{/* фон для формы обращения*/
     display: block;
     background: #dce4ef;
     width: 1500px;   
@@ -124,4 +127,10 @@ address p{
     img.header-logo{
         display: none;
     }
+}
+font-family: 'Merriweather', serif;
+font-family: 'Ubuntu', sans-serif;
+
+.rus-nav-close img {
+  width: 4rem;
 }
